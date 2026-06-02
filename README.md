@@ -19,15 +19,16 @@ You can also specify training/evaluation parameters as arguments. You can reques
 Please cite the papers if you use the code:
 
 ````bibtex
-@misc{camargo2025graphneuralnetworkslarge,
-      title={Graph Neural Networks in Large Scale Wireless Communication Networks: Scalability Across Random Geometric Graphs}, 
-      author={Romina Garcia Camargo and Zhiyang Wang and Alejandro Ribeiro},
-      year={2025},
-      eprint={2510.00896},
-      archivePrefix={arXiv},
-      primaryClass={eess.SP},
-      url={https://arxiv.org/abs/2510.00896}, 
-}
+@INPROCEEDINGS{11460522,
+  author={Camargo, Romina Garcia and Wang, Zhiyang and Ribeiro, Alejandro},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Graph Neural Networks in Large Scale Wireless Communication Networks: Scalability Across Random Geometric Graphs}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={616-620},
+  keywords={Radio broadcasting;Frequency modulation;Filtering;Filters;Circuits and systems;Wireless communication;Wireless networks;Communication networks;Communication systems;Network architecture;transferability;graph neural networks;random geometric graphs},
+  doi={10.1109/ICASSP55912.2026.11460522}}
 
 The citation for the conference version will be added soon.
 
