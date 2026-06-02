@@ -30,5 +30,4 @@ Please cite the papers if you use the code:
   keywords={Radio broadcasting;Frequency modulation;Filtering;Filters;Circuits and systems;Wireless communication;Wireless networks;Communication networks;Communication systems;Network architecture;transferability;graph neural networks;random geometric graphs},
   doi={10.1109/ICASSP55912.2026.11460522}}
 
-The citation for the conference version will be added soon.
 
